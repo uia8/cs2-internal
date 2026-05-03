@@ -90,4 +90,4 @@ If initialization fails immediately, check: Game Capture on, 64-bit OBS hook pre
 
 ## License
 
-No license file is shipped in this snippet of the repo; add one if you publish publicly. Until then, assume **all rights reserved** unless the repository owner states otherwise.
+Just dont sell or make a p2c out of ts.. Your welcome to use for personal use or research
